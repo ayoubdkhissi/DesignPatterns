@@ -1,1 +1,0 @@
-﻿Console.Title = "Singleton";
